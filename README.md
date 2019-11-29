@@ -20,6 +20,4 @@ Pushed from Unity 2019.2.9f1 version, works in any version higher than that and 
 - Create a new project in Unity (version **2019.2.9f1+**)
 - Import the last added unitypackage from UnityPackages folder. 
 
-
-
-You should check it out!!!
+### You should check it out!!!
