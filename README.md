@@ -1,11 +1,23 @@
 # Arkanoid
 
-Arkanoid Game challenge (passed in 2 hours)
+Arkanoid Game challenge project (2 hours)
 
-Pushed from Unity 2019.2.9f1 version, works in any version higher than that and may work in versions lower.
+> Pushed from Unity 2019.2.9f1 version, works in any version higher than that and may work in versions lower.
 
-- GamePlay
+
+## GamePlay
 
 ![GamePlay](/Images/arkanoid.png?raw=true "GamePlay")
 
-You should check it out!!!
+
+## Installation
+
+* First way 
+  * Clone repository somewhere inside your PC.
+  * Open the cloned repository folder with Unity (version **2019.2.9f1+**)
+
+* Second way
+  * Create a new project in Unity (version **2019.2.9f1+**)
+  * Import the last added unitypackage from UnityPackages folder. 
+
+### You should check it out!!!
