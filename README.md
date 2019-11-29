@@ -2,7 +2,7 @@
 
 Arkanoid Game challenge project (2 hours)
 
-Pushed from Unity 2019.2.9f1 version, works in any version higher than that and may work in versions lower.
+> Pushed from Unity 2019.2.9f1 version, works in any version higher than that and may work in versions lower.
 
 
 ## GamePlay
